@@ -153,6 +153,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80b850e9d993e1642a6007d78787cb29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  brush: {fileID: 2087202323645662219, guid: 65f8d848c42b9bc40b490dfd5ef9f262, type: 3}
+  brushsize: 0.1
 --- !u!64 &642411528
 MeshCollider:
   m_ObjectHideFlags: 0
